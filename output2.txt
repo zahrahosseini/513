@@ -1,0 +1,39 @@
+Method:<clinit>
+src\TestCase\Elevator.java 11 $r0 ($r0 )
+src\TestCase\Elevator.java 11 <TestCase.Elevator: java.util.Vector allElevators> ($r0 )
+Method:<init>
+src\TestCase\Elevator.java 25 $r0 ($r0 )
+src\TestCase\Elevator.java 51 i ()
+Method:selectElevator
+Method:getBestElevator
+Method:notifyNewFloor
+src\TestCase\Elevator.java 112 $r0 ($r0 )
+Method:motorMoveDown
+src\TestCase\Elevator.java 137 $r0 ($r0 )
+src\TestCase\Elevator.java 137 ec ($r0 )
+Method:motorMoveUp
+src\TestCase\Elevator.java 147 $r0 ($r0 )
+src\TestCase\Elevator.java 147 ec ($r0 )
+Method:moveElevator
+Method:getNextDestination
+src\TestCase\Elevator.java 202 $r4 ($r4 )
+Method:stopElevator
+Method:motorStop
+src\TestCase\Elevator.java 229 $r0 ($r0 )
+src\TestCase\Elevator.java 229 ec ($r0 )
+Method:openDoor
+src\TestCase\Elevator.java 239 $r0 ($r0 )
+Method:closeDoor
+src\TestCase\Elevator.java 251 $r0 ($r0 )
+Method:addStop
+Method:run
+Method:getDirection
+Method:getState
+Method:getFloor
+Method:getElevatorID
+Method:getDoorOpen
+Method:getMotorMoving
+Method:getStop
+Method:getNumberOfStops
+Method:removeAllElevators
+Method:turnOff
